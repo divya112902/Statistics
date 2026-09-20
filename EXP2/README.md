@@ -13,7 +13,6 @@
 - **Dataset:** Pima Indians Diabetes Dataset
 - **Observations:** 768
 - **Input Attributes:** 8
-- **Target Variable:** `Outcome`
 
 ## Requirements
 
@@ -56,8 +55,8 @@ pip install pandas numpy matplotlib seaborn
 
 ## Notes
 
-- Histograms are used to study distributions of variables such as `Glucose`, `BMI`, and `Age`.
+- Histograms are used to study distributions of variables such as Glucose, BMI, and Age.
 - Boxplots help identify potential outliers.
-- Scatter plots are used to study relationships such as `Glucose vs BMI` and `Age vs Glucose`.
+- Scatter plots are used to study relationships such as Glucose vs BMI and Age vs Glucose.
 - Pair plots provide multiple pairwise relationships in a single visualization.
 
