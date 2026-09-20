@@ -53,6 +53,6 @@ pip install pandas numpy matplotlib seaborn
 
 ## Notes
 
-- Zero values in `Glucose`, `BloodPressure`, `SkinThickness`, `Insulin`, and `BMI` may require investigation.
+- Zero values in Glucose, BloodPressure, SkinThickness, Insulin, and BMI may require investigation.
 - Outliers should be investigated before removing them.
 - The analysis is performed for understanding the dataset before further statistical or machine learning analysis.
