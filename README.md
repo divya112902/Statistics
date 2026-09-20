@@ -44,19 +44,18 @@ git clone https://github.com/divya112902/Statistics.git
 -cd statistics
 
 ### 3. Install the required libraries
-pip install pandas numpy scipy matploylib seaborn
+-pip install pandas numpy scipy matploylib seaborn
 
 ### 4. Run the programs
-cd EXP1...
+-cd EXP1...
 
 ## Dataset
 
 -The experiments use the Pima Indians Diabetes Dataset.
-
 -Observations: 768
 -Input Attributes: 8
 
--Attributes
+## Attributes
 -Pregnancies
 -Glucose
 -BloodPressure
